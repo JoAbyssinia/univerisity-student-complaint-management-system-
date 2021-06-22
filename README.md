@@ -3,5 +3,9 @@ including featurs:
  	- student grade complain
 	- student harasment complain. 
 
+create DB: rvuscms
+import datas form db forlder
+
+
 developer : yohannes kassa yimam
 langudge: PHP  
